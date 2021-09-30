@@ -9,3 +9,5 @@ TODO
 * Detect stack size, CLI and WB cases, and set buffer size accordingly.
 * Set target file via command line parameters.
 * Usage docs.
+
+UPDATE: Superseded by pyamigadebug/amigaXfer.
