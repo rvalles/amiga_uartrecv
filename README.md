@@ -1,3 +1,7 @@
+# This project has been superseded by pyamigadebug/amigaXfer.
+
+Was...
+
 Fast, polled serial port file transfer to Amiga.
 Currently hardcoded to 506699 bps on PAL Amiga, which is the maximum I've been able to reach with a FTDI rs232 dongle on the other end.
 Works on any Amiga, even with a basic 68000.
@@ -9,5 +13,3 @@ TODO
 * Detect stack size, CLI and WB cases, and set buffer size accordingly.
 * Set target file via command line parameters.
 * Usage docs.
-
-UPDATE: Superseded by pyamigadebug/amigaXfer.
